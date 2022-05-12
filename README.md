@@ -13,3 +13,14 @@ GitHub(Store Images)
 Trello(
 Google Classroom
 Miro(Mind Map, Layout of Website)
+
+**Diary**
+##Term 1
+###February
+Website topic
+Research
+March
+Create all files/docs for the making of website
+
+
+
