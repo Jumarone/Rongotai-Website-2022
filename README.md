@@ -27,3 +27,13 @@ March
 - Found pictures/media for website
 - Pick out fonts using Google Fonts
 
+April
+- Finished Mind Map
+- Layout of all the pages of website finished
+- Looking over trello board
+- Putting everything together
+
+May
+- Started up our work log
+- Set up GitHub Desktop
+- 
