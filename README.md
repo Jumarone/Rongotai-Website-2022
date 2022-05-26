@@ -10,9 +10,10 @@ This is a website to inform new students and parents about Rongotai College.
 
 **Software Used**
 - GitHub(Store Images, Work Log)
-- Trello(
+- Trello(Set Tasks)
 - Google Classroom(
 - Miro(Mind Map, Layout of Website)
+
 
 **Diary**
 **Term 1**
