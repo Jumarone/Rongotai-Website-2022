@@ -37,5 +37,4 @@ April
 May
 - Started up our work log
 - Set up GitHub Desktop
-- 
 - https://templatemo.com/tm-575-leadership-event
