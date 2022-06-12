@@ -38,3 +38,4 @@ May
 - Started up our work log
 - Set up GitHub Desktop
 - https://templatemo.com/tm-575-leadership-event
+- https://www.tiktok.com/@cs.685/video/7053387046496390402?lang=en
