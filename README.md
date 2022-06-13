@@ -39,4 +39,5 @@ May
 - Set up GitHub Desktop
 - https://templatemo.com/tm-575-leadership-event
 - https://www.tiktok.com/@cs.685/video/7053387046496390402?lang=en
--  https://www.tiktok.com/@athletetakeover/video/6961002745759403265?lang=en
+- https://www.tiktok.com/@athletetakeover/video/6961002745759403265?lang=en
+-  Photoshopping the logo background out 
