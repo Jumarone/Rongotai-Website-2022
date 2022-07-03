@@ -9,10 +9,10 @@ This is a website to inform new students and parents about Rongotai College.
 - Sacha Marchenko (Coder, Researcher)
 
 **Software Used**
-- GitHub(Store Images, Work Log)
-- Trello(Set Tasks)
-- Google Classroom(
-- Miro(Mind Map, Layout of Website)
+- GitHub (Store Images, Work Log)
+- Trello (Set Tasks)
+- Google Classroom
+- Miro (Mind Map, Layout of Website)
 
 
 **Diary**
