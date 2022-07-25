@@ -39,5 +39,10 @@ May
 - Set up GitHub Desktop
 
 June
-- Photoshopping the logo background out 
+-  
 - 
+
+July
+-
+-
+
