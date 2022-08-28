@@ -39,10 +39,12 @@ May
 - Set up GitHub Desktop
 
 June
--  coding website 
+-  coding website - making desisions on colour of background
+-  decided to use  
 - 
 
 July
 - coding website - working on 
 -
+test website on different platforms
 
