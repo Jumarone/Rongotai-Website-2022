@@ -39,10 +39,10 @@ May
 - Set up GitHub Desktop
 
 June
--  
+-  coding website 
 - 
 
 July
--
+- coding website - working on 
 -
 
