@@ -34,6 +34,7 @@ April
 - Looking over trello board
 - Putting everything together
 
+**Term 2**
 May
 - Started up our work log
 - Set up GitHub Desktop
@@ -43,6 +44,7 @@ June
 -  decided to use  
 - 
 
+**Term 3**
 July
 - coding website - working on 
 -
