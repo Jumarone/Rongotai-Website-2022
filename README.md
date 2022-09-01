@@ -40,13 +40,31 @@ May
 - Set up GitHub Desktop
 
 June
--  coding website - making desisions on colour of background
--  decided to use  
-- 
+-  coding website - making desisions on colour of background and other things
+-  looking back on google slides for additional information we can use
+-  trying to keep the work log updated
+-  team disscussions on what we did yesterday, what we are doing today and any problems we have
 
 **Term 3**
 July
 - coding website - working on 
--
-test website on different platforms
+- looking back on google slides for additional information we can use
+- changing the website around - put in the tutangata videos instead of pictures
+- 
+
+August
+- updating trello board
+- coding website
+- 
+September
+
+
+
+
+
+
+
+
+
+
 
