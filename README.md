@@ -56,6 +56,7 @@ August
 - updating trello board
 - coding website
 - 
+
 September
 
 
