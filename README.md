@@ -35,6 +35,7 @@ April
 - Putting everything together
 
 **Term 2**
+
 May
 - Started up our work log
 - Set up GitHub Desktop
