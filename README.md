@@ -47,26 +47,18 @@ June
 -  team disscussions on what we did yesterday, what we are doing today and any problems we have
 
 **Term 3**
+
 July
 - coding website - working on 
 - looking back on google slides for additional information we can use
 - changing the website around - put in the tutangata videos instead of pictures
-- 
 
 August
 - updating trello board
 - coding website
-- 
 
 September
-
-
-
-
-
-
-
-
-
-
+- updating trello
+- testing the website on different platforms (google, firefox)
+- hand in all of our work
 
