@@ -5,8 +5,7 @@ This is a website to inform new students and parents about Rongotai College.
 **Our Team**
 - Jumarone Matini Ito (Head Designer, Layout Manager)
 - Nathaniel Matega (Designer Assistant, Reseacher)  
-- Matthew Noble (Photo/Media Manager)
-- Sacha Marchenko (Coder, Researcher)
+- Matthew Noble (Photo/Media Manager, Coder)
 
 **Software Used**
 - GitHub (Store Images, Work Log)
